@@ -1,0 +1,35 @@
+{
+  "name": "group-numbers",
+  "version": "1.0.0",
+  "description": "Partitions an array of numbers into continuous groups.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nodejs test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strarsis/group-numbers.git"
+  },
+  "keywords": [
+    "numbers",
+    "number",
+    "group",
+    "group",
+    "numbers",
+    "array",
+    "continuous",
+    "set",
+    "partition",
+    "next",
+    "number"
+  ],
+  "author": "strarsis <strarsis@gmail.com> (https://github.com/strarsis)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strarsis/group-numbers/issues"
+  },
+  "homepage": "https://github.com/strarsis/group-numbers#readme"
+}
