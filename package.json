@@ -31,5 +31,8 @@
   "bugs": {
     "url": "https://github.com/strarsis/group-numbers/issues"
   },
-  "homepage": "https://github.com/strarsis/group-numbers#readme"
+  "homepage": "https://github.com/strarsis/group-numbers#readme",
+  "dependencies": {
+    "arr-group": "^1.1.0"
+  }
 }
