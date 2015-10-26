@@ -7,8 +7,7 @@ Usage
 npm install group-numbers
 ````
 ````
-[ 43, 44, 45, 46, 51, 53, 54 ]
-.numberRange();
+[ 43, 44, 45, 46, 51, 53, 54 ].numberRange();
 => [ [ 43, 44, 45, 46 ], 51, [ 53, 54] ]
 ````
 
