@@ -1,4 +1,4 @@
-var arrGroup = require('../arr-group');
+var arrGroup = require('arr-group');
 
 var groupNumbers = function(numbers, returnSingleElements) {
   return arrGroup(
