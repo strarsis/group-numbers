@@ -7,14 +7,14 @@ Usage
 npm install group-numbers
 ````
 ````
-   [   43, 44, 45, 46,   51,   53, 54  ].numberRange();
-=> [ [ 43, 44, 45, 46 ], 51, [ 53, 54] ]
+   numberRange([   43, 44, 45, 46,   51,   53, 54  ]);
+            => [ [ 43, 44, 45, 46 ], 51, [ 53, 54] ]
 ````
 
 For having single elements in array, too:
 ````
-   [   43, 44, 45, 46,     51,     53, 54  ].numberRange(false);
-=> [ [ 43, 44, 45, 46 ], [ 51 ], [ 53, 54] ]
+   numberRange([   43, 44, 45, 46,     51,     53, 54  ], false);
+            => [ [ 43, 44, 45, 46 ], [ 51 ], [ 53, 54] ]
 ````
 
 
