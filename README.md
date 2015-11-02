@@ -1,6 +1,11 @@
 # group-numbers
 Partitions an array of numbers into continuous groups.
 
+[![Build Status](https://travis-ci.org/strarsis/group-numbers.svg)](https://travis-ci.org/strarsis/group-numbers)
+
+[![NPM](https://nodei.co/npm/group-numbers.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/group-numbers/)
+
+
 Usage
 -----
 ````
@@ -8,13 +13,13 @@ npm install group-numbers
 ````
 ````
    numberRange([   43, 44, 45, 46,   51,   53, 54  ]);
-            => [ [ 43, 44, 45, 46 ], 51, [ 53, 54] ]
+            => [ [ 43, 44, 45, 46 ], 51, [ 53, 54 ] ]
 ````
 
 For having single elements in array, too:
 ````
    numberRange([   43, 44, 45, 46,     51,     53, 54  ], false);
-            => [ [ 43, 44, 45, 46 ], [ 51 ], [ 53, 54] ]
+            => [ [ 43, 44, 45, 46 ], [ 51 ], [ 53, 54 ] ]
 ````
 
 
