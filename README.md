@@ -1,6 +1,11 @@
 # group-numbers
 Partitions an array of numbers into continuous groups.
 
+[![Build Status](https://travis-ci.org/strarsis/group-numbers.svg)](https://travis-ci.org/strarsis/group-numbers)
+
+[![NPM](https://nodei.co/npm/group-numbers.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/group-numbers/)
+
+
 Usage
 -----
 ````
